@@ -1,0 +1,10 @@
+# ROS 2 & Python
+__pycache__/
+*.pyc
+install/
+build/
+log/
+*.pt
+
+# Media (Ignore large videos to prevent GitHub errors)
+media/*.mp4
