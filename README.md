@@ -1,6 +1,7 @@
 # Cinematic Drone AI: Hardware-In-The-Loop Mock Streaming
 
 A professional ROS 2 Jazzy and PX4 SITL simulation architecture. This package demonstrates a deterministic "mock streaming" AI pipeline for drones, leveraging YOLOv8 for real-time human detection with cinematic video feed switching gated by live flight telemetry.
+##Watch the DEMO Video here ---------> https://lnkd.in/p/guNxqQuw
 
 ## 🏗️ Architecture Overview
 
